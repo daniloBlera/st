@@ -1,0 +1,7 @@
+# Patching and compilation files
+*.c.orig
+*.h.orig
+config.h
+st
+st.o
+x.o
