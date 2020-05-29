@@ -1,8 +1,9 @@
 # A fork of ST (0.8.3) with my configs
 ## Patches used
-*   st-clipboard-0.8.3.diff
-*   st-scrollback-20200419-72e3f6c.diff
-*   st-xresources-20190105-3be4cf1.diff
+*	clipboard	(st-clipboard-0.8.3.diff)
+*	scrollback	(st-scrollback-20200419-72e3f6c.diff)
+*	xresources	(st-xresources-20190105-3be4cf1.diff)
+*	iso14755	(st-iso14755-0.8.3.diff)
 
 
 st - simple terminal

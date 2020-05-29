@@ -163,6 +163,11 @@ static unsigned int defaultattr = 11;
 static uint forcemousemod = ShiftMask;
 
 /*
+ * Command used to query unicode glyphs.
+ */
+char *iso14755_cmd = "dmenu -w \"$WINDOWID\" -fn \"Ubuntu:size=11\" -sb \"#DC122A\" -sf \"#000000\" -nb \"#000000\" -nf \"#DC122A\" -p codepoint: </dev/null";
+
+/*
  * Xresources preferences to load at startup
  */
 ResourcePref resources[] = {
@@ -229,6 +234,7 @@ static Shortcut shortcuts[] = {
 	{ TERMMOD,              XK_Num_Lock,    numlock,        {.i =  0} },
 	{ ShiftMask,            XK_Page_Up,     kscrollup,      {.i = -1} },
 	{ ShiftMask,            XK_Page_Down,   kscrolldown,    {.i = -1} },
+	{ TERMMOD,              XK_I,           iso14755,       {.i =  0} },
 };
 
 /*
