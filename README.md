@@ -1,4 +1,6 @@
-# A fork of ST (0.8.3) with my configs
+# A fork of ST with my configs
+Version forked: [0.8.3](https://dl.suckless.org/st/st-0.8.3.tar.gz)
+
 ## Patches used
 *	clipboard	(st-clipboard-0.8.3.diff)
 *	scrollback	(st-scrollback-20200419-72e3f6c.diff)

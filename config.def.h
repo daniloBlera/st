@@ -165,7 +165,7 @@ static uint forcemousemod = ShiftMask;
 /*
  * Command used to query unicode glyphs.
  */
-char *iso14755_cmd = "dmenu -w \"$WINDOWID\" -fn \"Ubuntu:size=11\" -sb \"#DC122A\" -sf \"#000000\" -nb \"#000000\" -nf \"#DC122A\" -p codepoint: </dev/null";
+char *iso14755_cmd = "dmenu -w \"$WINDOWID\" -fn Ubuntu -sb \"#DC122A\" -sf \"#000000\" -nb \"#000000\" -nf \"#DC122A\" -p codepoint: </dev/null";
 
 /*
  * Xresources preferences to load at startup
