@@ -10,6 +10,7 @@ Version forked: [0.8.4](https://dl.suckless.org/st/st-0.8.4.tar.gz)
 * xresources ([st-xresources-20200604-9ba7ecf.diff][xres])
 * ligatures ([st-ligatures-scrollback-0.8.4][ligatures])
 * anysize ([st-anysize-0.8.4.diff][anysize])
+* dynamic-cursor-color ([st-dynamic-cursor-color-0.8.4.diff][dynamic-cursor-color])
 
 [clip]: https://st.suckless.org/patches/clipboard/st-clipboard-0.8.3.diff
 [iso]: https://st.suckless.org/patches/iso14755/st-iso14755-0.8.3.diff
@@ -17,6 +18,7 @@ Version forked: [0.8.4](https://dl.suckless.org/st/st-0.8.4.tar.gz)
 [xres]: https://st.suckless.org/patches/xresources/st-xresources-20200604-9ba7ecf.diff
 [ligatures]: https://st.suckless.org/patches/ligatures/0.8.4/st-ligatures-scrollback-20210824-0.8.4.diff
 [anysize]: https://st.suckless.org/patches/anysize/st-anysize-0.8.4.diff
+[dynamic-cursor-color]: https://st.suckless.org/patches/dynamic-cursor-color/st-dynamic-cursor-color-0.8.4.diff
 
 st - simple terminal
 --------------------
